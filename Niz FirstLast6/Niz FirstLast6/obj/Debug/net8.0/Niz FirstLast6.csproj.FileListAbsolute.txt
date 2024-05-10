@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\bin\Debug\net8.0\Niz FirstLast6.exe
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\bin\Debug\net8.0\Niz FirstLast6.deps.json
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\bin\Debug\net8.0\Niz FirstLast6.runtimeconfig.json
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\bin\Debug\net8.0\Niz FirstLast6.dll
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\bin\Debug\net8.0\Niz FirstLast6.pdb
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.AssemblyInfo.cs
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.sourcelink.json
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.dll
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\refint\Niz FirstLast6.dll
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.pdb
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\Niz FirstLast6.genruntimeconfig.cache
+K:\Microsoft learn\C#\Niz FirstLast6\Niz FirstLast6\obj\Debug\net8.0\ref\Niz FirstLast6.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ucitavanje i ispis niza/1.0.0": {
+        "runtime": {
+          "Ucitavanje i ispis niza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ucitavanje i ispis niza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

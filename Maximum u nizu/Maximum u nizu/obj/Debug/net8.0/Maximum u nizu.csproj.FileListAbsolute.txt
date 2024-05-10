@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\bin\Debug\net8.0\Maximum u nizu.exe
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\bin\Debug\net8.0\Maximum u nizu.deps.json
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\bin\Debug\net8.0\Maximum u nizu.runtimeconfig.json
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\bin\Debug\net8.0\Maximum u nizu.dll
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\bin\Debug\net8.0\Maximum u nizu.pdb
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.AssemblyInfo.cs
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.sourcelink.json
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.dll
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\refint\Maximum u nizu.dll
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.pdb
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\Maximum u nizu.genruntimeconfig.cache
+K:\Microsoft learn\C#\Maximum u nizu\Maximum u nizu\obj\Debug\net8.0\ref\Maximum u nizu.dll

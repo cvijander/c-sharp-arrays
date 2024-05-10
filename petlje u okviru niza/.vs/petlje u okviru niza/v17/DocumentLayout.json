@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Microsoft learn\\C#\\petlje u okviru niza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE8FEA8-AE4C-49A6-95F1-F23509A162E5}|petlje u okviru niza\\petlje u okviru niza.csproj|k:\\microsoft learn\\c#\\petlje u okviru niza\\petlje u okviru niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE8FEA8-AE4C-49A6-95F1-F23509A162E5}|petlje u okviru niza\\petlje u okviru niza.csproj|solutionrelative:petlje u okviru niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Microsoft learn\\C#\\petlje u okviru niza\\petlje u okviru niza\\Program.cs",
+              "RelativeDocumentMoniker": "petlje u okviru niza\\Program.cs",
+              "ToolTip": "K:\\Microsoft learn\\C#\\petlje u okviru niza\\petlje u okviru niza\\Program.cs",
+              "RelativeToolTip": "petlje u okviru niza\\Program.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAgwL0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T02:31:36.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

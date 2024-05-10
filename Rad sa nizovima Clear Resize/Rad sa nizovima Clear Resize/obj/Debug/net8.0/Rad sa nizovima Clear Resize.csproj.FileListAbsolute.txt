@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\bin\Debug\net8.0\Rad sa nizovima Clear Resize.exe
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\bin\Debug\net8.0\Rad sa nizovima Clear Resize.deps.json
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\bin\Debug\net8.0\Rad sa nizovima Clear Resize.runtimeconfig.json
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\bin\Debug\net8.0\Rad sa nizovima Clear Resize.dll
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\bin\Debug\net8.0\Rad sa nizovima Clear Resize.pdb
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.AssemblyInfo.cs
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.sourcelink.json
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.dll
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\refint\Rad sa nizovima Clear Resize.dll
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.pdb
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\Rad sa nizovima Clear Resize.genruntimeconfig.cache
+K:\Microsoft learn\C#\Rad sa nizovima Clear Resize\Rad sa nizovima Clear Resize\obj\Debug\net8.0\ref\Rad sa nizovima Clear Resize.dll

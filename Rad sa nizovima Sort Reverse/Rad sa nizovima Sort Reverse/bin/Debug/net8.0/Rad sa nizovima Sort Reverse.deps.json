@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rad sa nizovima Sort Reverse/1.0.0": {
+        "runtime": {
+          "Rad sa nizovima Sort Reverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rad sa nizovima Sort Reverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

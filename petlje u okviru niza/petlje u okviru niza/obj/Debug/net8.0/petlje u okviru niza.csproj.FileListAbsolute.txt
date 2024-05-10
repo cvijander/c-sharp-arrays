@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\bin\Debug\net8.0\petlje u okviru niza.exe
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\bin\Debug\net8.0\petlje u okviru niza.deps.json
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\bin\Debug\net8.0\petlje u okviru niza.runtimeconfig.json
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\bin\Debug\net8.0\petlje u okviru niza.dll
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\bin\Debug\net8.0\petlje u okviru niza.pdb
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.AssemblyInfo.cs
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.sourcelink.json
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.dll
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\refint\petlje u okviru niza.dll
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.pdb
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\petlje u okviru niza.genruntimeconfig.cache
+K:\Microsoft learn\C#\petlje u okviru niza\petlje u okviru niza\obj\Debug\net8.0\ref\petlje u okviru niza.dll

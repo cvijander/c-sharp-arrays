@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\bin\Debug\net8.0\mininum u nizu.exe
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\bin\Debug\net8.0\mininum u nizu.deps.json
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\bin\Debug\net8.0\mininum u nizu.runtimeconfig.json
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\bin\Debug\net8.0\mininum u nizu.dll
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\bin\Debug\net8.0\mininum u nizu.pdb
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.AssemblyInfo.cs
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.sourcelink.json
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.dll
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\refint\mininum u nizu.dll
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.pdb
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\mininum u nizu.genruntimeconfig.cache
+K:\Microsoft learn\C#\mininum u nizu\mininum u nizu\obj\Debug\net8.0\ref\mininum u nizu.dll

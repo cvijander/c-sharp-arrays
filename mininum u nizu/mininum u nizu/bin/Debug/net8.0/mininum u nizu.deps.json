@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mininum u nizu/1.0.0": {
+        "runtime": {
+          "mininum u nizu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mininum u nizu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

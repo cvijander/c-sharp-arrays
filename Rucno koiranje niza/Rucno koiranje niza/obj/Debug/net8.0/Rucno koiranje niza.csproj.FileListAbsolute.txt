@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\bin\Debug\net8.0\Rucno koiranje niza.exe
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\bin\Debug\net8.0\Rucno koiranje niza.deps.json
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\bin\Debug\net8.0\Rucno koiranje niza.runtimeconfig.json
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\bin\Debug\net8.0\Rucno koiranje niza.dll
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\bin\Debug\net8.0\Rucno koiranje niza.pdb
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.AssemblyInfo.cs
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.sourcelink.json
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.dll
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\refint\Rucno koiranje niza.dll
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.pdb
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\Rucno koiranje niza.genruntimeconfig.cache
+K:\Microsoft learn\C#\Rucno koiranje niza\Rucno koiranje niza\obj\Debug\net8.0\ref\Rucno koiranje niza.dll

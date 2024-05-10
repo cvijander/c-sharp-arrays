@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\bin\Debug\net8.0\Ucitavanje niza koristeci metode.exe
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\bin\Debug\net8.0\Ucitavanje niza koristeci metode.deps.json
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\bin\Debug\net8.0\Ucitavanje niza koristeci metode.runtimeconfig.json
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\bin\Debug\net8.0\Ucitavanje niza koristeci metode.dll
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\bin\Debug\net8.0\Ucitavanje niza koristeci metode.pdb
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.AssemblyInfo.cs
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.sourcelink.json
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.dll
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\refint\Ucitavanje niza koristeci metode.dll
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.pdb
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\Ucitavanje niza koristeci metode.genruntimeconfig.cache
+K:\Microsoft learn\C#\Ucitavanje niza koristeci metode\Ucitavanje niza koristeci metode\obj\Debug\net8.0\ref\Ucitavanje niza koristeci metode.dll

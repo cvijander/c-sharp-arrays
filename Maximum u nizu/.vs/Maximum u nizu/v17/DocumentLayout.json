@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Microsoft learn\\C#\\Maximum u nizu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DF6E3D-178A-4A14-BB02-364C651CED84}|Maximum u nizu\\Maximum u nizu.csproj|k:\\microsoft learn\\c#\\maximum u nizu\\maximum u nizu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DF6E3D-178A-4A14-BB02-364C651CED84}|Maximum u nizu\\Maximum u nizu.csproj|solutionrelative:maximum u nizu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Microsoft learn\\C#\\Maximum u nizu\\Maximum u nizu\\Program.cs",
+              "RelativeDocumentMoniker": "Maximum u nizu\\Program.cs",
+              "ToolTip": "K:\\Microsoft learn\\C#\\Maximum u nizu\\Maximum u nizu\\Program.cs",
+              "RelativeToolTip": "Maximum u nizu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:50:30.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

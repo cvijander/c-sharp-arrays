@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\bin\Debug\net8.0\Rad sa nizovima Sort Reverse.exe
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\bin\Debug\net8.0\Rad sa nizovima Sort Reverse.deps.json
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\bin\Debug\net8.0\Rad sa nizovima Sort Reverse.runtimeconfig.json
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\bin\Debug\net8.0\Rad sa nizovima Sort Reverse.dll
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\bin\Debug\net8.0\Rad sa nizovima Sort Reverse.pdb
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.AssemblyInfo.cs
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.sourcelink.json
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.dll
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\refint\Rad sa nizovima Sort Reverse.dll
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.pdb
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\Rad sa nizovima Sort Reverse.genruntimeconfig.cache
+K:\Microsoft learn\C#\Rad sa nizovima Sort Reverse\Rad sa nizovima Sort Reverse\obj\Debug\net8.0\ref\Rad sa nizovima Sort Reverse.dll

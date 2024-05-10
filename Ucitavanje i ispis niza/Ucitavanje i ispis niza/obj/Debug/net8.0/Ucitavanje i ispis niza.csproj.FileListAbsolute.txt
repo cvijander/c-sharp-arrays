@@ -1,0 +1,15 @@
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\bin\Debug\net8.0\Ucitavanje i ispis niza.exe
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\bin\Debug\net8.0\Ucitavanje i ispis niza.deps.json
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\bin\Debug\net8.0\Ucitavanje i ispis niza.runtimeconfig.json
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\bin\Debug\net8.0\Ucitavanje i ispis niza.dll
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\bin\Debug\net8.0\Ucitavanje i ispis niza.pdb
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.AssemblyInfoInputs.cache
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.AssemblyInfo.cs
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.csproj.CoreCompileInputs.cache
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.sourcelink.json
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.dll
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\refint\Ucitavanje i ispis niza.dll
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.pdb
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\Ucitavanje i ispis niza.genruntimeconfig.cache
+K:\Microsoft learn\C#\Ucitavanje i ispis niza\Ucitavanje i ispis niza\obj\Debug\net8.0\ref\Ucitavanje i ispis niza.dll
