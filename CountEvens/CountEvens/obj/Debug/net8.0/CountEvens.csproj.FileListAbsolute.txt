@@ -1,0 +1,15 @@
+K:\C# arrays\CountEvens\CountEvens\bin\Debug\net8.0\CountEvens.exe
+K:\C# arrays\CountEvens\CountEvens\bin\Debug\net8.0\CountEvens.deps.json
+K:\C# arrays\CountEvens\CountEvens\bin\Debug\net8.0\CountEvens.runtimeconfig.json
+K:\C# arrays\CountEvens\CountEvens\bin\Debug\net8.0\CountEvens.dll
+K:\C# arrays\CountEvens\CountEvens\bin\Debug\net8.0\CountEvens.pdb
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.AssemblyInfoInputs.cache
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.AssemblyInfo.cs
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.csproj.CoreCompileInputs.cache
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.sourcelink.json
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.dll
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\refint\CountEvens.dll
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.pdb
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\CountEvens.genruntimeconfig.cache
+K:\C# arrays\CountEvens\CountEvens\obj\Debug\net8.0\ref\CountEvens.dll

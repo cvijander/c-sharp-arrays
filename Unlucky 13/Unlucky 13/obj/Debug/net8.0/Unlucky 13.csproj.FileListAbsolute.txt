@@ -1,0 +1,15 @@
+K:\C# arrays\Unlucky 13\Unlucky 13\bin\Debug\net8.0\Unlucky 13.exe
+K:\C# arrays\Unlucky 13\Unlucky 13\bin\Debug\net8.0\Unlucky 13.deps.json
+K:\C# arrays\Unlucky 13\Unlucky 13\bin\Debug\net8.0\Unlucky 13.runtimeconfig.json
+K:\C# arrays\Unlucky 13\Unlucky 13\bin\Debug\net8.0\Unlucky 13.dll
+K:\C# arrays\Unlucky 13\Unlucky 13\bin\Debug\net8.0\Unlucky 13.pdb
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.AssemblyInfoInputs.cache
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.AssemblyInfo.cs
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.csproj.CoreCompileInputs.cache
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.sourcelink.json
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.dll
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\refint\Unlucky 13.dll
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.pdb
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\Unlucky 13.genruntimeconfig.cache
+K:\C# arrays\Unlucky 13\Unlucky 13\obj\Debug\net8.0\ref\Unlucky 13.dll

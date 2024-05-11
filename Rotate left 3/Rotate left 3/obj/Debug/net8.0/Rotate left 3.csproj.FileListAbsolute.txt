@@ -1,0 +1,15 @@
+K:\C# arrays\Rotate left 3\Rotate left 3\bin\Debug\net8.0\Rotate left 3.exe
+K:\C# arrays\Rotate left 3\Rotate left 3\bin\Debug\net8.0\Rotate left 3.deps.json
+K:\C# arrays\Rotate left 3\Rotate left 3\bin\Debug\net8.0\Rotate left 3.runtimeconfig.json
+K:\C# arrays\Rotate left 3\Rotate left 3\bin\Debug\net8.0\Rotate left 3.dll
+K:\C# arrays\Rotate left 3\Rotate left 3\bin\Debug\net8.0\Rotate left 3.pdb
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.AssemblyInfoInputs.cache
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.AssemblyInfo.cs
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.csproj.CoreCompileInputs.cache
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.sourcelink.json
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.dll
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\refint\Rotate left 3.dll
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.pdb
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\Rotate left 3.genruntimeconfig.cache
+K:\C# arrays\Rotate left 3\Rotate left 3\obj\Debug\net8.0\ref\Rotate left 3.dll

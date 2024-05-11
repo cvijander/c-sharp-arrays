@@ -1,0 +1,15 @@
+K:\C# arrays\Make ends\Make ends\bin\Debug\net8.0\Make ends.exe
+K:\C# arrays\Make ends\Make ends\bin\Debug\net8.0\Make ends.deps.json
+K:\C# arrays\Make ends\Make ends\bin\Debug\net8.0\Make ends.runtimeconfig.json
+K:\C# arrays\Make ends\Make ends\bin\Debug\net8.0\Make ends.dll
+K:\C# arrays\Make ends\Make ends\bin\Debug\net8.0\Make ends.pdb
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.AssemblyInfoInputs.cache
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.AssemblyInfo.cs
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.csproj.CoreCompileInputs.cache
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.sourcelink.json
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.dll
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\refint\Make ends.dll
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.pdb
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\Make ends.genruntimeconfig.cache
+K:\C# arrays\Make ends\Make ends\obj\Debug\net8.0\ref\Make ends.dll

@@ -1,0 +1,15 @@
+K:\C# arrays\BigDiff\BigDiff\bin\Debug\net8.0\BigDiff.exe
+K:\C# arrays\BigDiff\BigDiff\bin\Debug\net8.0\BigDiff.deps.json
+K:\C# arrays\BigDiff\BigDiff\bin\Debug\net8.0\BigDiff.runtimeconfig.json
+K:\C# arrays\BigDiff\BigDiff\bin\Debug\net8.0\BigDiff.dll
+K:\C# arrays\BigDiff\BigDiff\bin\Debug\net8.0\BigDiff.pdb
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.AssemblyInfoInputs.cache
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.AssemblyInfo.cs
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.csproj.CoreCompileInputs.cache
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.sourcelink.json
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.dll
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\refint\BigDiff.dll
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.pdb
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\BigDiff.genruntimeconfig.cache
+K:\C# arrays\BigDiff\BigDiff\obj\Debug\net8.0\ref\BigDiff.dll

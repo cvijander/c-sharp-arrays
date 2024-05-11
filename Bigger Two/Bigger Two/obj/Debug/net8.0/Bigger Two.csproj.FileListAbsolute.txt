@@ -1,0 +1,15 @@
+K:\C# arrays\Bigger Two\Bigger Two\bin\Debug\net8.0\Bigger Two.exe
+K:\C# arrays\Bigger Two\Bigger Two\bin\Debug\net8.0\Bigger Two.deps.json
+K:\C# arrays\Bigger Two\Bigger Two\bin\Debug\net8.0\Bigger Two.runtimeconfig.json
+K:\C# arrays\Bigger Two\Bigger Two\bin\Debug\net8.0\Bigger Two.dll
+K:\C# arrays\Bigger Two\Bigger Two\bin\Debug\net8.0\Bigger Two.pdb
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.AssemblyInfoInputs.cache
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.AssemblyInfo.cs
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.csproj.CoreCompileInputs.cache
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.sourcelink.json
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.dll
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\refint\Bigger Two.dll
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.pdb
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\Bigger Two.genruntimeconfig.cache
+K:\C# arrays\Bigger Two\Bigger Two\obj\Debug\net8.0\ref\Bigger Two.dll

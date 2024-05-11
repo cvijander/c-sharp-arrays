@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Plustwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18434CC-F4C6-4E97-A9B3-6C97394E7B2E}|Plustwo\\Plustwo.csproj|k:\\c# arrays\\plustwo\\plustwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C18434CC-F4C6-4E97-A9B3-6C97394E7B2E}|Plustwo\\Plustwo.csproj|solutionrelative:plustwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Plustwo\\Plustwo\\Program.cs",
+              "RelativeDocumentMoniker": "Plustwo\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Plustwo\\Plustwo\\Program.cs",
+              "RelativeToolTip": "Plustwo\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:47:29.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

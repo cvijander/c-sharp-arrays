@@ -1,0 +1,15 @@
+K:\C# arrays\CommonEnd\CommonEnd\bin\Debug\net8.0\CommonEnd.exe
+K:\C# arrays\CommonEnd\CommonEnd\bin\Debug\net8.0\CommonEnd.deps.json
+K:\C# arrays\CommonEnd\CommonEnd\bin\Debug\net8.0\CommonEnd.runtimeconfig.json
+K:\C# arrays\CommonEnd\CommonEnd\bin\Debug\net8.0\CommonEnd.dll
+K:\C# arrays\CommonEnd\CommonEnd\bin\Debug\net8.0\CommonEnd.pdb
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.AssemblyInfoInputs.cache
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.AssemblyInfo.cs
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.csproj.CoreCompileInputs.cache
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.sourcelink.json
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.dll
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\refint\CommonEnd.dll
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.pdb
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\CommonEnd.genruntimeconfig.cache
+K:\C# arrays\CommonEnd\CommonEnd\obj\Debug\net8.0\ref\CommonEnd.dll

@@ -1,0 +1,15 @@
+K:\C# arrays\MiddleWay\MiddleWay\bin\Debug\net8.0\MiddleWay.exe
+K:\C# arrays\MiddleWay\MiddleWay\bin\Debug\net8.0\MiddleWay.deps.json
+K:\C# arrays\MiddleWay\MiddleWay\bin\Debug\net8.0\MiddleWay.runtimeconfig.json
+K:\C# arrays\MiddleWay\MiddleWay\bin\Debug\net8.0\MiddleWay.dll
+K:\C# arrays\MiddleWay\MiddleWay\bin\Debug\net8.0\MiddleWay.pdb
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.AssemblyInfoInputs.cache
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.AssemblyInfo.cs
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.csproj.CoreCompileInputs.cache
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.sourcelink.json
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.dll
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\refint\MiddleWay.dll
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.pdb
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\MiddleWay.genruntimeconfig.cache
+K:\C# arrays\MiddleWay\MiddleWay\obj\Debug\net8.0\ref\MiddleWay.dll

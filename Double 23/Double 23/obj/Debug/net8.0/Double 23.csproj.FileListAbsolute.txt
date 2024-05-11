@@ -1,0 +1,15 @@
+K:\C# arrays\Double 23\Double 23\bin\Debug\net8.0\Double 23.exe
+K:\C# arrays\Double 23\Double 23\bin\Debug\net8.0\Double 23.deps.json
+K:\C# arrays\Double 23\Double 23\bin\Debug\net8.0\Double 23.runtimeconfig.json
+K:\C# arrays\Double 23\Double 23\bin\Debug\net8.0\Double 23.dll
+K:\C# arrays\Double 23\Double 23\bin\Debug\net8.0\Double 23.pdb
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.AssemblyInfoInputs.cache
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.AssemblyInfo.cs
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.csproj.CoreCompileInputs.cache
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.sourcelink.json
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.dll
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\refint\Double 23.dll
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.pdb
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\Double 23.genruntimeconfig.cache
+K:\C# arrays\Double 23\Double 23\obj\Debug\net8.0\ref\Double 23.dll

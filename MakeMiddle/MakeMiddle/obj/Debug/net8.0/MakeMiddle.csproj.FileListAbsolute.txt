@@ -1,0 +1,15 @@
+K:\C# arrays\MakeMiddle\MakeMiddle\bin\Debug\net8.0\MakeMiddle.exe
+K:\C# arrays\MakeMiddle\MakeMiddle\bin\Debug\net8.0\MakeMiddle.deps.json
+K:\C# arrays\MakeMiddle\MakeMiddle\bin\Debug\net8.0\MakeMiddle.runtimeconfig.json
+K:\C# arrays\MakeMiddle\MakeMiddle\bin\Debug\net8.0\MakeMiddle.dll
+K:\C# arrays\MakeMiddle\MakeMiddle\bin\Debug\net8.0\MakeMiddle.pdb
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.AssemblyInfoInputs.cache
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.AssemblyInfo.cs
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.csproj.CoreCompileInputs.cache
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.sourcelink.json
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.dll
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\refint\MakeMiddle.dll
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.pdb
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\MakeMiddle.genruntimeconfig.cache
+K:\C# arrays\MakeMiddle\MakeMiddle\obj\Debug\net8.0\ref\MakeMiddle.dll

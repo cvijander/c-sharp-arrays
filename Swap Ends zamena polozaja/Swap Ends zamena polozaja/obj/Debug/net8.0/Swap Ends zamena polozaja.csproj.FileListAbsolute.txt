@@ -1,0 +1,15 @@
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\bin\Debug\net8.0\Swap Ends zamena polozaja.exe
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\bin\Debug\net8.0\Swap Ends zamena polozaja.deps.json
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\bin\Debug\net8.0\Swap Ends zamena polozaja.runtimeconfig.json
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\bin\Debug\net8.0\Swap Ends zamena polozaja.dll
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\bin\Debug\net8.0\Swap Ends zamena polozaja.pdb
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.AssemblyInfoInputs.cache
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.AssemblyInfo.cs
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.csproj.CoreCompileInputs.cache
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.sourcelink.json
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.dll
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\refint\Swap Ends zamena polozaja.dll
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.pdb
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\Swap Ends zamena polozaja.genruntimeconfig.cache
+K:\C# arrays\Swap Ends zamena polozaja\Swap Ends zamena polozaja\obj\Debug\net8.0\ref\Swap Ends zamena polozaja.dll

@@ -1,0 +1,15 @@
+K:\C# arrays\Plustwo\Plustwo\bin\Debug\net8.0\Plustwo.exe
+K:\C# arrays\Plustwo\Plustwo\bin\Debug\net8.0\Plustwo.deps.json
+K:\C# arrays\Plustwo\Plustwo\bin\Debug\net8.0\Plustwo.runtimeconfig.json
+K:\C# arrays\Plustwo\Plustwo\bin\Debug\net8.0\Plustwo.dll
+K:\C# arrays\Plustwo\Plustwo\bin\Debug\net8.0\Plustwo.pdb
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.AssemblyInfoInputs.cache
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.AssemblyInfo.cs
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.csproj.CoreCompileInputs.cache
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.sourcelink.json
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.dll
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\refint\Plustwo.dll
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.pdb
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\Plustwo.genruntimeconfig.cache
+K:\C# arrays\Plustwo\Plustwo\obj\Debug\net8.0\ref\Plustwo.dll

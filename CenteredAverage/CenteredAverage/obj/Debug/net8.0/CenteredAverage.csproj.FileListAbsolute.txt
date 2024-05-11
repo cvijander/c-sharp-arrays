@@ -1,0 +1,15 @@
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.AssemblyInfoInputs.cache
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.AssemblyInfo.cs
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.csproj.CoreCompileInputs.cache
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.sourcelink.json
+K:\C# arrays\CenteredAverage\CenteredAverage\bin\Debug\net8.0\CenteredAverage.exe
+K:\C# arrays\CenteredAverage\CenteredAverage\bin\Debug\net8.0\CenteredAverage.deps.json
+K:\C# arrays\CenteredAverage\CenteredAverage\bin\Debug\net8.0\CenteredAverage.runtimeconfig.json
+K:\C# arrays\CenteredAverage\CenteredAverage\bin\Debug\net8.0\CenteredAverage.dll
+K:\C# arrays\CenteredAverage\CenteredAverage\bin\Debug\net8.0\CenteredAverage.pdb
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.dll
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\refint\CenteredAverage.dll
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.pdb
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\CenteredAverage.genruntimeconfig.cache
+K:\C# arrays\CenteredAverage\CenteredAverage\obj\Debug\net8.0\ref\CenteredAverage.dll

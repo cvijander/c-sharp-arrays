@@ -1,0 +1,15 @@
+K:\C# arrays\Sum3\Sum3\bin\Debug\net8.0\Sum3.exe
+K:\C# arrays\Sum3\Sum3\bin\Debug\net8.0\Sum3.deps.json
+K:\C# arrays\Sum3\Sum3\bin\Debug\net8.0\Sum3.runtimeconfig.json
+K:\C# arrays\Sum3\Sum3\bin\Debug\net8.0\Sum3.dll
+K:\C# arrays\Sum3\Sum3\bin\Debug\net8.0\Sum3.pdb
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.AssemblyInfoInputs.cache
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.AssemblyInfo.cs
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.csproj.CoreCompileInputs.cache
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.sourcelink.json
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.dll
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\refint\Sum3.dll
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.pdb
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\Sum3.genruntimeconfig.cache
+K:\C# arrays\Sum3\Sum3\obj\Debug\net8.0\ref\Sum3.dll

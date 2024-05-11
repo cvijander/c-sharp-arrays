@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make pi", "Make pi\Make pi.csproj", "{7890D746-C0F1-4077-BD14-E263FDBD3EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7890D746-C0F1-4077-BD14-E263FDBD3EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7890D746-C0F1-4077-BD14-E263FDBD3EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7890D746-C0F1-4077-BD14-E263FDBD3EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7890D746-C0F1-4077-BD14-E263FDBD3EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A555C7B-F85F-4230-97E9-40F876CC9A04}
+	EndGlobalSection
+EndGlobal

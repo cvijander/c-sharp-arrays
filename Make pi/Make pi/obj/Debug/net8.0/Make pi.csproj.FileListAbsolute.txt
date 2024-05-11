@@ -1,0 +1,15 @@
+K:\C# arrays\Make pi\Make pi\bin\Debug\net8.0\Make pi.exe
+K:\C# arrays\Make pi\Make pi\bin\Debug\net8.0\Make pi.deps.json
+K:\C# arrays\Make pi\Make pi\bin\Debug\net8.0\Make pi.runtimeconfig.json
+K:\C# arrays\Make pi\Make pi\bin\Debug\net8.0\Make pi.dll
+K:\C# arrays\Make pi\Make pi\bin\Debug\net8.0\Make pi.pdb
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.AssemblyInfoInputs.cache
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.AssemblyInfo.cs
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.csproj.CoreCompileInputs.cache
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.sourcelink.json
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.dll
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\refint\Make pi.dll
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.pdb
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\Make pi.genruntimeconfig.cache
+K:\C# arrays\Make pi\Make pi\obj\Debug\net8.0\ref\Make pi.dll

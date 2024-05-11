@@ -1,0 +1,15 @@
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.AssemblyInfoInputs.cache
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.AssemblyInfo.cs
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.csproj.CoreCompileInputs.cache
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.sourcelink.json
+K:\C# arrays\MaxTriple\MaxTriple\bin\Debug\net8.0\MaxTriple.exe
+K:\C# arrays\MaxTriple\MaxTriple\bin\Debug\net8.0\MaxTriple.deps.json
+K:\C# arrays\MaxTriple\MaxTriple\bin\Debug\net8.0\MaxTriple.runtimeconfig.json
+K:\C# arrays\MaxTriple\MaxTriple\bin\Debug\net8.0\MaxTriple.dll
+K:\C# arrays\MaxTriple\MaxTriple\bin\Debug\net8.0\MaxTriple.pdb
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.dll
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\refint\MaxTriple.dll
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.pdb
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\MaxTriple.genruntimeconfig.cache
+K:\C# arrays\MaxTriple\MaxTriple\obj\Debug\net8.0\ref\MaxTriple.dll

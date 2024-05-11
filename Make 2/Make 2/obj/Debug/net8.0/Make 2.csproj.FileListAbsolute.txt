@@ -1,0 +1,15 @@
+K:\C# arrays\Make 2\Make 2\bin\Debug\net8.0\Make 2.exe
+K:\C# arrays\Make 2\Make 2\bin\Debug\net8.0\Make 2.deps.json
+K:\C# arrays\Make 2\Make 2\bin\Debug\net8.0\Make 2.runtimeconfig.json
+K:\C# arrays\Make 2\Make 2\bin\Debug\net8.0\Make 2.dll
+K:\C# arrays\Make 2\Make 2\bin\Debug\net8.0\Make 2.pdb
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.AssemblyInfoInputs.cache
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.AssemblyInfo.cs
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.csproj.CoreCompileInputs.cache
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.sourcelink.json
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.dll
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\refint\Make 2.dll
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.pdb
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\Make 2.genruntimeconfig.cache
+K:\C# arrays\Make 2\Make 2\obj\Debug\net8.0\ref\Make 2.dll

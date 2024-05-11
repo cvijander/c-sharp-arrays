@@ -1,0 +1,15 @@
+K:\C# arrays\No23\No23\bin\Debug\net8.0\No23.exe
+K:\C# arrays\No23\No23\bin\Debug\net8.0\No23.deps.json
+K:\C# arrays\No23\No23\bin\Debug\net8.0\No23.runtimeconfig.json
+K:\C# arrays\No23\No23\bin\Debug\net8.0\No23.dll
+K:\C# arrays\No23\No23\bin\Debug\net8.0\No23.pdb
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.AssemblyInfoInputs.cache
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.AssemblyInfo.cs
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.csproj.CoreCompileInputs.cache
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.sourcelink.json
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.dll
+K:\C# arrays\No23\No23\obj\Debug\net8.0\refint\No23.dll
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.pdb
+K:\C# arrays\No23\No23\obj\Debug\net8.0\No23.genruntimeconfig.cache
+K:\C# arrays\No23\No23\obj\Debug\net8.0\ref\No23.dll
