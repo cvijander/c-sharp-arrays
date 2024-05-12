@@ -1,0 +1,15 @@
+K:\C# arrays\Niz od 2i\Niz od 2i\bin\Debug\net8.0\Niz od 2i.exe
+K:\C# arrays\Niz od 2i\Niz od 2i\bin\Debug\net8.0\Niz od 2i.deps.json
+K:\C# arrays\Niz od 2i\Niz od 2i\bin\Debug\net8.0\Niz od 2i.runtimeconfig.json
+K:\C# arrays\Niz od 2i\Niz od 2i\bin\Debug\net8.0\Niz od 2i.dll
+K:\C# arrays\Niz od 2i\Niz od 2i\bin\Debug\net8.0\Niz od 2i.pdb
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.AssemblyInfoInputs.cache
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.AssemblyInfo.cs
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.csproj.CoreCompileInputs.cache
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.sourcelink.json
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.dll
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\refint\Niz od 2i.dll
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.pdb
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\Niz od 2i.genruntimeconfig.cache
+K:\C# arrays\Niz od 2i\Niz od 2i\obj\Debug\net8.0\ref\Niz od 2i.dll

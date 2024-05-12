@@ -1,0 +1,15 @@
+K:\C# arrays\Sum67\Sum67\bin\Debug\net8.0\Sum67.exe
+K:\C# arrays\Sum67\Sum67\bin\Debug\net8.0\Sum67.deps.json
+K:\C# arrays\Sum67\Sum67\bin\Debug\net8.0\Sum67.runtimeconfig.json
+K:\C# arrays\Sum67\Sum67\bin\Debug\net8.0\Sum67.dll
+K:\C# arrays\Sum67\Sum67\bin\Debug\net8.0\Sum67.pdb
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.AssemblyInfoInputs.cache
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.AssemblyInfo.cs
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.csproj.CoreCompileInputs.cache
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.sourcelink.json
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.dll
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\refint\Sum67.dll
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.pdb
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\Sum67.genruntimeconfig.cache
+K:\C# arrays\Sum67\Sum67\obj\Debug\net8.0\ref\Sum67.dll

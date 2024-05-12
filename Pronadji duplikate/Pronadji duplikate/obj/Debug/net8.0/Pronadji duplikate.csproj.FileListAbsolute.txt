@@ -1,0 +1,15 @@
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\bin\Debug\net8.0\Pronadji duplikate.exe
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\bin\Debug\net8.0\Pronadji duplikate.deps.json
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\bin\Debug\net8.0\Pronadji duplikate.runtimeconfig.json
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\bin\Debug\net8.0\Pronadji duplikate.dll
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\bin\Debug\net8.0\Pronadji duplikate.pdb
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.AssemblyInfoInputs.cache
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.AssemblyInfo.cs
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.csproj.CoreCompileInputs.cache
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.sourcelink.json
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.dll
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\refint\Pronadji duplikate.dll
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.pdb
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\Pronadji duplikate.genruntimeconfig.cache
+K:\C# arrays\Pronadji duplikate\Pronadji duplikate\obj\Debug\net8.0\ref\Pronadji duplikate.dll

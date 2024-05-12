@@ -1,0 +1,15 @@
+K:\C# arrays\Korisnicki id\Korisnicki id\bin\Debug\net8.0\Korisnicki id.exe
+K:\C# arrays\Korisnicki id\Korisnicki id\bin\Debug\net8.0\Korisnicki id.deps.json
+K:\C# arrays\Korisnicki id\Korisnicki id\bin\Debug\net8.0\Korisnicki id.runtimeconfig.json
+K:\C# arrays\Korisnicki id\Korisnicki id\bin\Debug\net8.0\Korisnicki id.dll
+K:\C# arrays\Korisnicki id\Korisnicki id\bin\Debug\net8.0\Korisnicki id.pdb
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.AssemblyInfoInputs.cache
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.AssemblyInfo.cs
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.csproj.CoreCompileInputs.cache
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.sourcelink.json
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.dll
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\refint\Korisnicki id.dll
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.pdb
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\Korisnicki id.genruntimeconfig.cache
+K:\C# arrays\Korisnicki id\Korisnicki id\obj\Debug\net8.0\ref\Korisnicki id.dll

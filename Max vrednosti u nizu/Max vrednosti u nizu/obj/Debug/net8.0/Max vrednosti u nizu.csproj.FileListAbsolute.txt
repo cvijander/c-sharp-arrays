@@ -1,0 +1,15 @@
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\bin\Debug\net8.0\Max vrednosti u nizu.exe
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\bin\Debug\net8.0\Max vrednosti u nizu.deps.json
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\bin\Debug\net8.0\Max vrednosti u nizu.runtimeconfig.json
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\bin\Debug\net8.0\Max vrednosti u nizu.dll
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\bin\Debug\net8.0\Max vrednosti u nizu.pdb
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.AssemblyInfoInputs.cache
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.AssemblyInfo.cs
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.csproj.CoreCompileInputs.cache
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.sourcelink.json
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.dll
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\refint\Max vrednosti u nizu.dll
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.pdb
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\Max vrednosti u nizu.genruntimeconfig.cache
+K:\C# arrays\Max vrednosti u nizu\Max vrednosti u nizu\obj\Debug\net8.0\ref\Max vrednosti u nizu.dll

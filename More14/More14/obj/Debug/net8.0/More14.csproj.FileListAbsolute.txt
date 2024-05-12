@@ -1,0 +1,15 @@
+K:\C# arrays\More14\More14\bin\Debug\net8.0\More14.exe
+K:\C# arrays\More14\More14\bin\Debug\net8.0\More14.deps.json
+K:\C# arrays\More14\More14\bin\Debug\net8.0\More14.runtimeconfig.json
+K:\C# arrays\More14\More14\bin\Debug\net8.0\More14.dll
+K:\C# arrays\More14\More14\bin\Debug\net8.0\More14.pdb
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.AssemblyInfoInputs.cache
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.AssemblyInfo.cs
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.csproj.CoreCompileInputs.cache
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.sourcelink.json
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.dll
+K:\C# arrays\More14\More14\obj\Debug\net8.0\refint\More14.dll
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.pdb
+K:\C# arrays\More14\More14\obj\Debug\net8.0\More14.genruntimeconfig.cache
+K:\C# arrays\More14\More14\obj\Debug\net8.0\ref\More14.dll

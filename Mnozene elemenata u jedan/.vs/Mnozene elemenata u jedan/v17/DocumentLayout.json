@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Mnozene elemenata u jedan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF4680A-AAE1-4889-A153-161F0A447E5D}|Mnozene elemenata u jedan\\Mnozene elemenata u jedan.csproj|k:\\c# arrays\\mnozene elemenata u jedan\\mnozene elemenata u jedan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF4680A-AAE1-4889-A153-161F0A447E5D}|Mnozene elemenata u jedan\\Mnozene elemenata u jedan.csproj|solutionrelative:mnozene elemenata u jedan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Mnozene elemenata u jedan\\Mnozene elemenata u jedan\\Program.cs",
+              "RelativeDocumentMoniker": "Mnozene elemenata u jedan\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Mnozene elemenata u jedan\\Mnozene elemenata u jedan\\Program.cs",
+              "RelativeToolTip": "Mnozene elemenata u jedan\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T00:06:07.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

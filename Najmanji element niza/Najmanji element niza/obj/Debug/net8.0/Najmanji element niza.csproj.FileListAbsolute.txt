@@ -1,0 +1,15 @@
+K:\C# arrays\Najmanji element niza\Najmanji element niza\bin\Debug\net8.0\Najmanji element niza.exe
+K:\C# arrays\Najmanji element niza\Najmanji element niza\bin\Debug\net8.0\Najmanji element niza.deps.json
+K:\C# arrays\Najmanji element niza\Najmanji element niza\bin\Debug\net8.0\Najmanji element niza.runtimeconfig.json
+K:\C# arrays\Najmanji element niza\Najmanji element niza\bin\Debug\net8.0\Najmanji element niza.dll
+K:\C# arrays\Najmanji element niza\Najmanji element niza\bin\Debug\net8.0\Najmanji element niza.pdb
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.AssemblyInfoInputs.cache
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.AssemblyInfo.cs
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.csproj.CoreCompileInputs.cache
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.sourcelink.json
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.dll
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\refint\Najmanji element niza.dll
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.pdb
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\Najmanji element niza.genruntimeconfig.cache
+K:\C# arrays\Najmanji element niza\Najmanji element niza\obj\Debug\net8.0\ref\Najmanji element niza.dll

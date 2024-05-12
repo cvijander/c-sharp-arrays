@@ -1,0 +1,15 @@
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.AssemblyInfoInputs.cache
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.AssemblyInfo.cs
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.csproj.CoreCompileInputs.cache
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.sourcelink.json
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\bin\Debug\net8.0\Linearno pretrazivanje nizova.exe
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\bin\Debug\net8.0\Linearno pretrazivanje nizova.deps.json
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\bin\Debug\net8.0\Linearno pretrazivanje nizova.runtimeconfig.json
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\bin\Debug\net8.0\Linearno pretrazivanje nizova.dll
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\bin\Debug\net8.0\Linearno pretrazivanje nizova.pdb
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.dll
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\refint\Linearno pretrazivanje nizova.dll
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.pdb
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\Linearno pretrazivanje nizova.genruntimeconfig.cache
+K:\C# arrays\Linearno pretrazivanje nizova\Linearno pretrazivanje nizova\obj\Debug\net8.0\ref\Linearno pretrazivanje nizova.dll

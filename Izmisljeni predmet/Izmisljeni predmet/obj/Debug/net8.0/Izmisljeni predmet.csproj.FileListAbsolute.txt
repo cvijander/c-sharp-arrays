@@ -1,0 +1,15 @@
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\bin\Debug\net8.0\Izmisljeni predmet.exe
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\bin\Debug\net8.0\Izmisljeni predmet.deps.json
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\bin\Debug\net8.0\Izmisljeni predmet.runtimeconfig.json
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\bin\Debug\net8.0\Izmisljeni predmet.dll
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\bin\Debug\net8.0\Izmisljeni predmet.pdb
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.AssemblyInfoInputs.cache
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.AssemblyInfo.cs
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.csproj.CoreCompileInputs.cache
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.sourcelink.json
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.dll
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\refint\Izmisljeni predmet.dll
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.pdb
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\Izmisljeni predmet.genruntimeconfig.cache
+K:\C# arrays\Izmisljeni predmet\Izmisljeni predmet\obj\Debug\net8.0\ref\Izmisljeni predmet.dll

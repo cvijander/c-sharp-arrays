@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Niz parnih brojeva/1.0.0": {
+        "runtime": {
+          "Niz parnih brojeva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Niz parnih brojeva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

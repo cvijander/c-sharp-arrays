@@ -1,0 +1,15 @@
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\bin\Debug\net8.0\Metod pravljenja niza.exe
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\bin\Debug\net8.0\Metod pravljenja niza.deps.json
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\bin\Debug\net8.0\Metod pravljenja niza.runtimeconfig.json
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\bin\Debug\net8.0\Metod pravljenja niza.dll
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\bin\Debug\net8.0\Metod pravljenja niza.pdb
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.AssemblyInfoInputs.cache
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.AssemblyInfo.cs
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.csproj.CoreCompileInputs.cache
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.sourcelink.json
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.dll
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\refint\Metod pravljenja niza.dll
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.pdb
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\Metod pravljenja niza.genruntimeconfig.cache
+K:\C# arrays\Metod pravljenja niza\Metod pravljenja niza\obj\Debug\net8.0\ref\Metod pravljenja niza.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parni elementi na neparnim pozicijama/1.0.0": {
+        "runtime": {
+          "Parni elementi na neparnim pozicijama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parni elementi na neparnim pozicijama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

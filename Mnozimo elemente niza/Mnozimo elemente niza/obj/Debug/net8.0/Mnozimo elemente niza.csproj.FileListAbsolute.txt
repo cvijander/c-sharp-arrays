@@ -1,0 +1,15 @@
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\bin\Debug\net8.0\Mnozimo elemente niza.exe
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\bin\Debug\net8.0\Mnozimo elemente niza.deps.json
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\bin\Debug\net8.0\Mnozimo elemente niza.runtimeconfig.json
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\bin\Debug\net8.0\Mnozimo elemente niza.dll
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\bin\Debug\net8.0\Mnozimo elemente niza.pdb
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.AssemblyInfoInputs.cache
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.AssemblyInfo.cs
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.csproj.CoreCompileInputs.cache
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.sourcelink.json
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.dll
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\refint\Mnozimo elemente niza.dll
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.pdb
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\Mnozimo elemente niza.genruntimeconfig.cache
+K:\C# arrays\Mnozimo elemente niza\Mnozimo elemente niza\obj\Debug\net8.0\ref\Mnozimo elemente niza.dll

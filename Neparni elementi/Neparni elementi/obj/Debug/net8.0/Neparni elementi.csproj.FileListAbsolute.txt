@@ -1,0 +1,15 @@
+K:\C# arrays\Neparni elementi\Neparni elementi\bin\Debug\net8.0\Neparni elementi.exe
+K:\C# arrays\Neparni elementi\Neparni elementi\bin\Debug\net8.0\Neparni elementi.deps.json
+K:\C# arrays\Neparni elementi\Neparni elementi\bin\Debug\net8.0\Neparni elementi.runtimeconfig.json
+K:\C# arrays\Neparni elementi\Neparni elementi\bin\Debug\net8.0\Neparni elementi.dll
+K:\C# arrays\Neparni elementi\Neparni elementi\bin\Debug\net8.0\Neparni elementi.pdb
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.AssemblyInfoInputs.cache
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.AssemblyInfo.cs
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.csproj.CoreCompileInputs.cache
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.sourcelink.json
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.dll
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\refint\Neparni elementi.dll
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.pdb
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\Neparni elementi.genruntimeconfig.cache
+K:\C# arrays\Neparni elementi\Neparni elementi\obj\Debug\net8.0\ref\Neparni elementi.dll

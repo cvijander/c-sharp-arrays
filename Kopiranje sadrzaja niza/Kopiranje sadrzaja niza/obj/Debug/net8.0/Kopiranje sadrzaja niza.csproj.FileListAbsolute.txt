@@ -1,0 +1,15 @@
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\bin\Debug\net8.0\Kopiranje sadrzaja niza.exe
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\bin\Debug\net8.0\Kopiranje sadrzaja niza.deps.json
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\bin\Debug\net8.0\Kopiranje sadrzaja niza.runtimeconfig.json
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\bin\Debug\net8.0\Kopiranje sadrzaja niza.dll
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\bin\Debug\net8.0\Kopiranje sadrzaja niza.pdb
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.AssemblyInfoInputs.cache
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.AssemblyInfo.cs
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.csproj.CoreCompileInputs.cache
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.sourcelink.json
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.dll
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\refint\Kopiranje sadrzaja niza.dll
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.pdb
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\Kopiranje sadrzaja niza.genruntimeconfig.cache
+K:\C# arrays\Kopiranje sadrzaja niza\Kopiranje sadrzaja niza\obj\Debug\net8.0\ref\Kopiranje sadrzaja niza.dll

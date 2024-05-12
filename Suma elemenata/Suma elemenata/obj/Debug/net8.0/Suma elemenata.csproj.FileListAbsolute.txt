@@ -1,0 +1,15 @@
+K:\C# arrays\Suma elemenata\Suma elemenata\bin\Debug\net8.0\Suma elemenata.exe
+K:\C# arrays\Suma elemenata\Suma elemenata\bin\Debug\net8.0\Suma elemenata.deps.json
+K:\C# arrays\Suma elemenata\Suma elemenata\bin\Debug\net8.0\Suma elemenata.runtimeconfig.json
+K:\C# arrays\Suma elemenata\Suma elemenata\bin\Debug\net8.0\Suma elemenata.dll
+K:\C# arrays\Suma elemenata\Suma elemenata\bin\Debug\net8.0\Suma elemenata.pdb
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.AssemblyInfoInputs.cache
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.AssemblyInfo.cs
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.csproj.CoreCompileInputs.cache
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.sourcelink.json
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.dll
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\refint\Suma elemenata.dll
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.pdb
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\Suma elemenata.genruntimeconfig.cache
+K:\C# arrays\Suma elemenata\Suma elemenata\obj\Debug\net8.0\ref\Suma elemenata.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Niz sa radnom brojevima/1.0.0": {
+        "runtime": {
+          "Niz sa radnom brojevima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Niz sa radnom brojevima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

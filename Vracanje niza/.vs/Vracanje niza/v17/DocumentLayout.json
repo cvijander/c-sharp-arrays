@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Vracanje niza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32F2C890-D226-411B-99A3-83B58E9FA671}|Vracanje niza\\Vracanje niza.csproj|k:\\c# arrays\\vracanje niza\\vracanje niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F2C890-D226-411B-99A3-83B58E9FA671}|Vracanje niza\\Vracanje niza.csproj|solutionrelative:vracanje niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Vracanje niza\\Vracanje niza\\Program.cs",
+              "RelativeDocumentMoniker": "Vracanje niza\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Vracanje niza\\Vracanje niza\\Program.cs",
+              "RelativeToolTip": "Vracanje niza\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:30:48.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

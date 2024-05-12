@@ -1,0 +1,15 @@
+K:\C# arrays\Zameni mesta\Zameni mesta\bin\Debug\net8.0\Zameni mesta.exe
+K:\C# arrays\Zameni mesta\Zameni mesta\bin\Debug\net8.0\Zameni mesta.deps.json
+K:\C# arrays\Zameni mesta\Zameni mesta\bin\Debug\net8.0\Zameni mesta.runtimeconfig.json
+K:\C# arrays\Zameni mesta\Zameni mesta\bin\Debug\net8.0\Zameni mesta.dll
+K:\C# arrays\Zameni mesta\Zameni mesta\bin\Debug\net8.0\Zameni mesta.pdb
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.AssemblyInfoInputs.cache
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.AssemblyInfo.cs
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.csproj.CoreCompileInputs.cache
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.sourcelink.json
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.dll
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\refint\Zameni mesta.dll
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.pdb
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\Zameni mesta.genruntimeconfig.cache
+K:\C# arrays\Zameni mesta\Zameni mesta\obj\Debug\net8.0\ref\Zameni mesta.dll

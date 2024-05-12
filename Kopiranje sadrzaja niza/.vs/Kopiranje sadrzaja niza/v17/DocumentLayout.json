@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Kopiranje sadrzaja niza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D9CCF6-BD62-48F8-BB06-BD9163D3AE4C}|Kopiranje sadrzaja niza\\Kopiranje sadrzaja niza.csproj|k:\\c# arrays\\kopiranje sadrzaja niza\\kopiranje sadrzaja niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D9CCF6-BD62-48F8-BB06-BD9163D3AE4C}|Kopiranje sadrzaja niza\\Kopiranje sadrzaja niza.csproj|solutionrelative:kopiranje sadrzaja niza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Kopiranje sadrzaja niza\\Kopiranje sadrzaja niza\\Program.cs",
+              "RelativeDocumentMoniker": "Kopiranje sadrzaja niza\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Kopiranje sadrzaja niza\\Kopiranje sadrzaja niza\\Program.cs",
+              "RelativeToolTip": "Kopiranje sadrzaja niza\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:13:22.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

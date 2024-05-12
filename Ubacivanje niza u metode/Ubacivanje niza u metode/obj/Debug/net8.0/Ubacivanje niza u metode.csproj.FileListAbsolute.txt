@@ -1,0 +1,15 @@
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\bin\Debug\net8.0\Ubacivanje niza u metode.exe
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\bin\Debug\net8.0\Ubacivanje niza u metode.deps.json
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\bin\Debug\net8.0\Ubacivanje niza u metode.runtimeconfig.json
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\bin\Debug\net8.0\Ubacivanje niza u metode.dll
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\bin\Debug\net8.0\Ubacivanje niza u metode.pdb
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.AssemblyInfoInputs.cache
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.AssemblyInfo.cs
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.csproj.CoreCompileInputs.cache
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.sourcelink.json
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.dll
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\refint\Ubacivanje niza u metode.dll
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.pdb
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\Ubacivanje niza u metode.genruntimeconfig.cache
+K:\C# arrays\Ubacivanje niza u metode\Ubacivanje niza u metode\obj\Debug\net8.0\ref\Ubacivanje niza u metode.dll

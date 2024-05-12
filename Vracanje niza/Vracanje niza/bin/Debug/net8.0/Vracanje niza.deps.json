@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Vracanje niza/1.0.0": {
+        "runtime": {
+          "Vracanje niza.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vracanje niza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\bin\Debug\net8.0\Vrednostni tip i referntni.exe
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\bin\Debug\net8.0\Vrednostni tip i referntni.deps.json
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\bin\Debug\net8.0\Vrednostni tip i referntni.runtimeconfig.json
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\bin\Debug\net8.0\Vrednostni tip i referntni.dll
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\bin\Debug\net8.0\Vrednostni tip i referntni.pdb
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.AssemblyInfoInputs.cache
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.AssemblyInfo.cs
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.csproj.CoreCompileInputs.cache
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.sourcelink.json
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.dll
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\refint\Vrednostni tip i referntni.dll
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.pdb
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\Vrednostni tip i referntni.genruntimeconfig.cache
+K:\C# arrays\Vrednostni tip i referntni\Vrednostni tip i referntni\obj\Debug\net8.0\ref\Vrednostni tip i referntni.dll

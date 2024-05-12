@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max vrednosti u nizu", "Max vrednosti u nizu\Max vrednosti u nizu.csproj", "{117ECAE4-A7B9-4B8C-9A76-E145BF7AD5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117ECAE4-A7B9-4B8C-9A76-E145BF7AD5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117ECAE4-A7B9-4B8C-9A76-E145BF7AD5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117ECAE4-A7B9-4B8C-9A76-E145BF7AD5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117ECAE4-A7B9-4B8C-9A76-E145BF7AD5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B5B72D-1A7A-4B57-ABA9-59C2430899F7}
+	EndGlobalSection
+EndGlobal

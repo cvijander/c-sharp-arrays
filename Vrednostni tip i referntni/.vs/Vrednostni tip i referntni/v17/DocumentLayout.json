@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Vrednostni tip i referntni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D52D9C-9581-45DC-A19D-FF398806F015}|Vrednostni tip i referntni\\Vrednostni tip i referntni.csproj|k:\\c# arrays\\vrednostni tip i referntni\\vrednostni tip i referntni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D52D9C-9581-45DC-A19D-FF398806F015}|Vrednostni tip i referntni\\Vrednostni tip i referntni.csproj|solutionrelative:vrednostni tip i referntni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Vrednostni tip i referntni\\Vrednostni tip i referntni\\Program.cs",
+              "RelativeDocumentMoniker": "Vrednostni tip i referntni\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Vrednostni tip i referntni\\Vrednostni tip i referntni\\Program.cs",
+              "RelativeToolTip": "Vrednostni tip i referntni\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:41:38.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

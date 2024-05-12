@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Niz sa radnom brojevima\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8565DA2A-875F-46CF-81B0-67E213AA9349}|Niz sa radnom brojevima\\Niz sa radnom brojevima.csproj|k:\\c# arrays\\niz sa radnom brojevima\\niz sa radnom brojevima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8565DA2A-875F-46CF-81B0-67E213AA9349}|Niz sa radnom brojevima\\Niz sa radnom brojevima.csproj|solutionrelative:niz sa radnom brojevima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Niz sa radnom brojevima\\Niz sa radnom brojevima\\Program.cs",
+              "RelativeDocumentMoniker": "Niz sa radnom brojevima\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Niz sa radnom brojevima\\Niz sa radnom brojevima\\Program.cs",
+              "RelativeToolTip": "Niz sa radnom brojevima\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:06:05.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

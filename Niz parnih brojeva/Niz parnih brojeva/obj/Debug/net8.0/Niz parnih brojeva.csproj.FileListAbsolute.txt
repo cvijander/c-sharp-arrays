@@ -1,0 +1,15 @@
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\bin\Debug\net8.0\Niz parnih brojeva.exe
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\bin\Debug\net8.0\Niz parnih brojeva.deps.json
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\bin\Debug\net8.0\Niz parnih brojeva.runtimeconfig.json
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\bin\Debug\net8.0\Niz parnih brojeva.dll
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\bin\Debug\net8.0\Niz parnih brojeva.pdb
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.AssemblyInfoInputs.cache
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.AssemblyInfo.cs
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.csproj.CoreCompileInputs.cache
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.sourcelink.json
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.dll
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\refint\Niz parnih brojeva.dll
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.pdb
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\Niz parnih brojeva.genruntimeconfig.cache
+K:\C# arrays\Niz parnih brojeva\Niz parnih brojeva\obj\Debug\net8.0\ref\Niz parnih brojeva.dll

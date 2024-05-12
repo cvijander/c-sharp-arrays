@@ -1,0 +1,15 @@
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\bin\Debug\net8.0\Pravimo niz sa istim resenjem.exe
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\bin\Debug\net8.0\Pravimo niz sa istim resenjem.deps.json
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\bin\Debug\net8.0\Pravimo niz sa istim resenjem.runtimeconfig.json
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\bin\Debug\net8.0\Pravimo niz sa istim resenjem.dll
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\bin\Debug\net8.0\Pravimo niz sa istim resenjem.pdb
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.AssemblyInfoInputs.cache
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.AssemblyInfo.cs
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.csproj.CoreCompileInputs.cache
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.sourcelink.json
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.dll
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\refint\Pravimo niz sa istim resenjem.dll
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.pdb
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\Pravimo niz sa istim resenjem.genruntimeconfig.cache
+K:\C# arrays\Pravimo niz sa istim resenjem\Pravimo niz sa istim resenjem\obj\Debug\net8.0\ref\Pravimo niz sa istim resenjem.dll

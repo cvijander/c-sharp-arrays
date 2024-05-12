@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\C# arrays\\Sum67\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9D2172-C6D3-4298-81DB-5C40B7E9A78D}|Sum67\\Sum67.csproj|k:\\c# arrays\\sum67\\sum67\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9D2172-C6D3-4298-81DB-5C40B7E9A78D}|Sum67\\Sum67.csproj|solutionrelative:sum67\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\C# arrays\\Sum67\\Sum67\\Program.cs",
+              "RelativeDocumentMoniker": "Sum67\\Program.cs",
+              "ToolTip": "K:\\C# arrays\\Sum67\\Sum67\\Program.cs",
+              "RelativeToolTip": "Sum67\\Program.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAgwLkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:43:33.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+K:\C# arrays\Niz sa stopom\Niz sa stopom\bin\Debug\net8.0\Niz sa stopom.exe
+K:\C# arrays\Niz sa stopom\Niz sa stopom\bin\Debug\net8.0\Niz sa stopom.deps.json
+K:\C# arrays\Niz sa stopom\Niz sa stopom\bin\Debug\net8.0\Niz sa stopom.runtimeconfig.json
+K:\C# arrays\Niz sa stopom\Niz sa stopom\bin\Debug\net8.0\Niz sa stopom.dll
+K:\C# arrays\Niz sa stopom\Niz sa stopom\bin\Debug\net8.0\Niz sa stopom.pdb
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.AssemblyInfoInputs.cache
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.AssemblyInfo.cs
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.csproj.CoreCompileInputs.cache
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.sourcelink.json
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.dll
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\refint\Niz sa stopom.dll
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.pdb
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\Niz sa stopom.genruntimeconfig.cache
+K:\C# arrays\Niz sa stopom\Niz sa stopom\obj\Debug\net8.0\ref\Niz sa stopom.dll

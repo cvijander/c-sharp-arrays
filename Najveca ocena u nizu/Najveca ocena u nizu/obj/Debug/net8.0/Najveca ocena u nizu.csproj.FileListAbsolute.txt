@@ -1,0 +1,15 @@
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\bin\Debug\net8.0\Najveca ocena u nizu.exe
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\bin\Debug\net8.0\Najveca ocena u nizu.deps.json
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\bin\Debug\net8.0\Najveca ocena u nizu.runtimeconfig.json
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\bin\Debug\net8.0\Najveca ocena u nizu.dll
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\bin\Debug\net8.0\Najveca ocena u nizu.pdb
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.AssemblyInfoInputs.cache
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.AssemblyInfo.cs
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.csproj.CoreCompileInputs.cache
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.sourcelink.json
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.dll
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\refint\Najveca ocena u nizu.dll
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.pdb
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\Najveca ocena u nizu.genruntimeconfig.cache
+K:\C# arrays\Najveca ocena u nizu\Najveca ocena u nizu\obj\Debug\net8.0\ref\Najveca ocena u nizu.dll

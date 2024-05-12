@@ -1,0 +1,15 @@
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\bin\Debug\net8.0\Natprosecni elementi u nizu.exe
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\bin\Debug\net8.0\Natprosecni elementi u nizu.deps.json
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\bin\Debug\net8.0\Natprosecni elementi u nizu.runtimeconfig.json
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\bin\Debug\net8.0\Natprosecni elementi u nizu.dll
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\bin\Debug\net8.0\Natprosecni elementi u nizu.pdb
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.AssemblyInfoInputs.cache
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.AssemblyInfo.cs
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.csproj.CoreCompileInputs.cache
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.sourcelink.json
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.dll
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\refint\Natprosecni elementi u nizu.dll
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.pdb
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\Natprosecni elementi u nizu.genruntimeconfig.cache
+K:\C# arrays\Natprosecni elementi u nizu\Natprosecni elementi u nizu\obj\Debug\net8.0\ref\Natprosecni elementi u nizu.dll

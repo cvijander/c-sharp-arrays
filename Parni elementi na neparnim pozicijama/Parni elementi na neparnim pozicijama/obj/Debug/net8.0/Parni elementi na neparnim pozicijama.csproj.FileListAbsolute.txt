@@ -1,0 +1,15 @@
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\bin\Debug\net8.0\Parni elementi na neparnim pozicijama.exe
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\bin\Debug\net8.0\Parni elementi na neparnim pozicijama.deps.json
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\bin\Debug\net8.0\Parni elementi na neparnim pozicijama.runtimeconfig.json
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\bin\Debug\net8.0\Parni elementi na neparnim pozicijama.dll
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\bin\Debug\net8.0\Parni elementi na neparnim pozicijama.pdb
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.AssemblyInfoInputs.cache
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.AssemblyInfo.cs
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.csproj.CoreCompileInputs.cache
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.sourcelink.json
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.dll
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\refint\Parni elementi na neparnim pozicijama.dll
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.pdb
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\Parni elementi na neparnim pozicijama.genruntimeconfig.cache
+K:\C# arrays\Parni elementi na neparnim pozicijama\Parni elementi na neparnim pozicijama\obj\Debug\net8.0\ref\Parni elementi na neparnim pozicijama.dll

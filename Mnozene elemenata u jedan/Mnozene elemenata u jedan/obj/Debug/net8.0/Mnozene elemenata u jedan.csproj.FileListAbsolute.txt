@@ -1,0 +1,15 @@
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\bin\Debug\net8.0\Mnozene elemenata u jedan.exe
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\bin\Debug\net8.0\Mnozene elemenata u jedan.deps.json
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\bin\Debug\net8.0\Mnozene elemenata u jedan.runtimeconfig.json
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\bin\Debug\net8.0\Mnozene elemenata u jedan.dll
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\bin\Debug\net8.0\Mnozene elemenata u jedan.pdb
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.AssemblyInfoInputs.cache
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.AssemblyInfo.cs
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.csproj.CoreCompileInputs.cache
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.sourcelink.json
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.dll
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\refint\Mnozene elemenata u jedan.dll
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.pdb
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\Mnozene elemenata u jedan.genruntimeconfig.cache
+K:\C# arrays\Mnozene elemenata u jedan\Mnozene elemenata u jedan\obj\Debug\net8.0\ref\Mnozene elemenata u jedan.dll

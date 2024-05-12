@@ -1,0 +1,15 @@
+K:\C# arrays\Vracanje niza\Vracanje niza\bin\Debug\net8.0\Vracanje niza.exe
+K:\C# arrays\Vracanje niza\Vracanje niza\bin\Debug\net8.0\Vracanje niza.deps.json
+K:\C# arrays\Vracanje niza\Vracanje niza\bin\Debug\net8.0\Vracanje niza.runtimeconfig.json
+K:\C# arrays\Vracanje niza\Vracanje niza\bin\Debug\net8.0\Vracanje niza.dll
+K:\C# arrays\Vracanje niza\Vracanje niza\bin\Debug\net8.0\Vracanje niza.pdb
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.GeneratedMSBuildEditorConfig.editorconfig
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.AssemblyInfoInputs.cache
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.AssemblyInfo.cs
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.csproj.CoreCompileInputs.cache
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.sourcelink.json
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.dll
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\refint\Vracanje niza.dll
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.pdb
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\Vracanje niza.genruntimeconfig.cache
+K:\C# arrays\Vracanje niza\Vracanje niza\obj\Debug\net8.0\ref\Vracanje niza.dll
